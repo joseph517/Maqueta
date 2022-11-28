@@ -6,6 +6,7 @@
     margin-top: 20px;
     height: 97%;
     .configurate{
+        margin-right: 20px;
         height: 50px;
         background-color: #0F3154;
         color: #FFFFFF;
@@ -33,6 +34,8 @@
         color: #0F3154;
     }
     .table{
+        border: black solid;
+        padding-right: 40px;
         table{
             width: 100%;
             tr{
@@ -92,8 +95,29 @@
     color: #FF6B6B;
 }
 
+@media (max-width:747px) {
 
-@media (max-width:390px) {
+    .table{
+        padding-right: 23px !important;
+    }
+
+    .configurate{
+        margin-right: 15px;
+    }
+    
+}
+
+
+@media (max-width:500px) {
+    .table{
+        padding-right: 15px !important;
+    }
+
+    .configurate{
+        border: #FF6B6B solid;
+        margin-left: 5px;
+        margin-right: 5px !important;
+    }
 
     .footer{
         display: none;
