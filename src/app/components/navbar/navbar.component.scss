@@ -1,0 +1,119 @@
+.colapseButtonNav {
+    margin-top: 70px;
+}
+.navbar {
+    padding-left: 20px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #00000029;
+    opacity: 1;
+    height: 60px;
+}
+
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+    .button{
+    border: none;
+    padding: 0px;
+    width: 40px;
+    height: 40px;
+    span{
+        width: 16px;
+        height: 12px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+}
+}
+
+.navbar>.container-fluid {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: left;
+}
+
+.payup{
+    img{
+        width: 73px;
+        height: 30px;
+    }
+    margin-left: 13px;
+}
+
+.profile{
+    &-container{
+        width: 180px;
+    }
+    &-wrap{
+        text-decoration: none;
+        width: 110px;
+        height: 28px;
+        display: flex;
+        .user{
+            margin-right: 13px;
+            p{
+                font-family: 'Montserrat';
+                font-weight: 500;
+                margin-bottom: 0px;
+                margin: 0px;
+                padding: 0px;
+            }
+
+            .name{
+                color: #000000;
+                font-size: 12px;
+                height: 14px;
+            }
+            .description{
+                font-size: 10px;
+                color: #9A9AB1;
+                text-align: right;
+                height: 13px;
+                
+            }
+        }
+        .avatar{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            img{
+                width: 30px;
+                height: 30px;
+            }
+        }
+        
+    }
+    
+}
+.dropdown-toggle::after{
+    display: none;
+}
+.dropdown{
+    &-menu{
+        padding: 0px;
+        margin: 0px;
+        margin-top: 11px;
+        width: 178px;
+        height: 90px;
+        a{
+            color: #000000;
+            padding: 0px;
+            padding-left: 6px;
+            margin: 0px;
+            font-size: 12px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+        }
+        hr{
+            margin: 0px;
+            padding: 0px;
+        }
+    }
+    &-item{
+        width: 175.5px;
+        height: 30px;
+    }
+}
