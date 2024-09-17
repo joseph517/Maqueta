@@ -2,13 +2,14 @@
 # https://maqueta-pi.vercel.app/
 
 # View web 
-![WhatsApp Image 2024-09-16 at 21 43 45_972c2e47](https://github.com/user-attachments/assets/d2832c57-ed85-4cf5-a3b3-32d28776eb54)
+![payUp-web](https://github.com/user-attachments/assets/5d6ab4fc-f134-48f5-81af-ac07d5ccd313)
 
 # View tablet 
-![WhatsApp Image 2024-09-16 at 21 44 39_34f928da](https://github.com/user-attachments/assets/c3e26f56-9e6f-445b-8c63-ae15e0657a77)
+![payUp-tablet](https://github.com/user-attachments/assets/7e1fc4fe-4753-48a8-8c03-1ab1bf44f036)
 
 # View mobile
-![WhatsApp Image 2024-09-16 at 21 56 24_240abab9](https://github.com/user-attachments/assets/7db84564-45d0-4cc1-96a1-ed097aa07ed8)
+![payUp-mobile](https://github.com/user-attachments/assets/9ebd7064-1b69-40d4-8644-91bdb5f09555)
+
 
 
 
