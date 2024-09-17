@@ -4,6 +4,12 @@
 # View web 
 ![WhatsApp Image 2024-09-16 at 21 43 45_972c2e47](https://github.com/user-attachments/assets/d2832c57-ed85-4cf5-a3b3-32d28776eb54)
 
+# View tablet 
+![WhatsApp Image 2024-09-16 at 21 44 39_34f928da](https://github.com/user-attachments/assets/c3e26f56-9e6f-445b-8c63-ae15e0657a77)
+
+# View mobile
+![WhatsApp Image 2024-09-16 at 21 56 24_240abab9](https://github.com/user-attachments/assets/7db84564-45d0-4cc1-96a1-ed097aa07ed8)
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
