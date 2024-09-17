@@ -1,4 +1,10 @@
-# Prueba
+# View PayUp app 
+# https://maqueta-pi.vercel.app/
+
+# View web 
+![WhatsApp Image 2024-09-16 at 21 43 45_972c2e47](https://github.com/user-attachments/assets/d2832c57-ed85-4cf5-a3b3-32d28776eb54)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
